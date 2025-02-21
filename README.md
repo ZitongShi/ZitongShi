@@ -1,8 +1,9 @@
 ## Hi there👋
 Hello, I'm Xixeen.😄 I am currently pursuing a Bachelor's degree in Computer Science and Technology at Wuhan University.
 ##  🌱 Currently learning:
-![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
+![Multi-agent systems](https://img.shields.io/badge/-Multi-agent%systems-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Graph%20Learning-lightgrey)
+![Trustworthy AI](https://img.shields.io/badge/-Trustworthy%AI-lightgrey)
 
 
 
