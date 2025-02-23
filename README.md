@@ -1,4 +1,4 @@
-# Hello, I'm Xixeen! 😄
+## Hello, I'm Xixeen! 😄
 
 I am currently pursuing a Bachelor's degree in **Computer Science and Technology** at **Wuhan University**. 🎓
 
