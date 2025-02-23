@@ -9,4 +9,5 @@ My recent research interests include:
 - **Graph Learning** 📊
 - **Trustworthy AI** 🤝
 
-Feel free to check out my projects and reach out if you're interested in collaborating or discussing ideas! 💬 I am currently seeking PhD opportunities for Fall 2026. 🎓
+Feel free to check out my projects and reach out if you're interested in collaborating or discussing ideas! 💬 
+🔥🔥🔥 I am currently seeking PhD opportunities for Fall 2026. 🎓
