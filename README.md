@@ -11,4 +11,4 @@ My recent research interests include:
 
 Feel free to check out my projects and reach out if you're interested in collaborating or discussing ideas! 💬 
 
-🔥🔥🔥 I am currently seeking PhD opportunities for Fall 2026. 🎓
+🔥🔥🔥 I am currently seeking PhD opportunities for 26 fall. 🎓
