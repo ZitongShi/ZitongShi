@@ -5,7 +5,7 @@ I am currently pursuing a Bachelor's degree in **Computer Science and Technology
 ## 🚀 Research Focus
 My recent research interests include:
 
-- **Multi-agent systems** 🤖
+- **Large language model** 🧠
 - **Graph Learning** 📊
 - **Trustworthy AI** 🤝
 
