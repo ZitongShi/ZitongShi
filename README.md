@@ -1,6 +1,6 @@
 ## Hello, I'm Xixeen! 😄
 
-I am currently pursuing a Bachelor's degree in **Computer Science and Technology** at **Wuhan University**. 🎓
+I am currently pursuing a Bachelor's degree in **Computer Science and Technology** at **Wuhan University**. [HomePage](https://zitongshi.github.io/)🎓
 
 ## 🚀 Research Focus
 My recent research interests include:
