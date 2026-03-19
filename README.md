@@ -7,7 +7,7 @@ I will join the National University of Singapore (NUS) as a PhD student starting
 ## 🚀 Research Focus
 My recent research interests include:
 
-- **Agent system** 🤖
+- **Memory System/Memory Enhancement** 🤖
 - **Graph Learning** 📊
 
 Feel free to check out my projects and reach out if you're interested in collaborating or discussing ideas! 💬 
