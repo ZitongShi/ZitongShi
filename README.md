@@ -2,7 +2,7 @@
 
 I am currently pursuing a Bachelor's degree in **Computer Science and Technology** at **Wuhan University**. [HomePage](https://zitongshi.github.io/)🎓
 
-I will join the National University of Singapore (NUS) as a PhD student starting Fall 2026.
+I will join the National University of Singapore (NUS) as a PhD starting Fall 2026.
 
 ## 🚀 Research Focus
 My recent research interests include:
