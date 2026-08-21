@@ -1,6 +1,3 @@
-# Zitong Shi
-
-**PhD Student in Computer Science · National University of Singapore**
 
 [Homepage](https://zitongshi.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=gB8FS0MAAAAJ)
 
