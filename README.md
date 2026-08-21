@@ -1,14 +1,5 @@
-## Hello, I'm Xixeen! 😄
+## Hello, I'm Zitong! 😄
 
-I am currently pursuing a Bachelor's degree in **Computer Science and Technology** at **Wuhan University**. [HomePage](https://zitongshi.github.io/)🎓
+Hi, I’m **Zitong Shi (史梓桐)**, a PhD student in Computer Science at the [National University of Singapore](https://nus.edu.sg/){:target="_blank" rel="noreferrer"}, advised by [Prof. Anthony Kum Hoe Tung](https://www.comp.nus.edu.sg/cs/people/atung/){:target="_blank" rel="noreferrer"}.
 
-I will join the National University of Singapore (NUS) as a PhD starting Fall 2026.
-
-## 🚀 Research Focus
-My recent research interests include:
-
-- **Agent Memory System/Memory Enhancement** 🤖
-- **Graph Learning** 📊
-
-Feel free to check out my projects and reach out if you're interested in collaborating or discussing ideas! 💬 
-
+My research focuses on **hierarchical reasoning** and **graph learning**. I am particularly interested in formalizing complex problems through structured representations, motivated by the view that many real-world problems can be naturally modeled as hierarchies or graphs. My work explores how these structures can enable more systematic, interpretable, and generalizable reasoning and learning.
